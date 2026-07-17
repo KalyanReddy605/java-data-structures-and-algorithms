@@ -1,9 +1,5 @@
 package com.maths;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 public class TestDemo01 {
 
 	public static void main(String[] args) {
